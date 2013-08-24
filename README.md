@@ -19,4 +19,4 @@ If you have cloned the repository and set up the Android Studio project as descr
 
 ###Pushing to GitHub from within Android Studio
 
-Make some changes and the press Ctrl + K. Add a commit message and click 'Commit and push'.
+Make some changes and the press Ctrl + K. Add a commit message and click 'Commit and push'!
